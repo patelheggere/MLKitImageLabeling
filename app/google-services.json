@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "652821044131",
+    "firebase_url": "https://mlkitimagelabeling-aaee6.firebaseio.com",
+    "project_id": "mlkitimagelabeling-aaee6",
+    "storage_bucket": "mlkitimagelabeling-aaee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652821044131:android:42484d32e76f3c273d1816",
+        "android_client_info": {
+          "package_name": "com.patelheggere.mlkitimagelabeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652821044131-gknsv65ts93i64dvrc6duas2ladk78h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patelheggere.mlkitimagelabeling",
+            "certificate_hash": "d82eb56657840b53af84e6efea0e237f7a42a82c"
+          }
+        },
+        {
+          "client_id": "652821044131-bkcf5ka28u8tsi2esniej8uf80vvt63p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGkmgfMlECcH5iVYkzjQzdo-Ot-JpniM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652821044131-bkcf5ka28u8tsi2esniej8uf80vvt63p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
